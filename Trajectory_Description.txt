@@ -1,0 +1,27 @@
+
+# Molecular Dynamics Trajectory Description
+
+All molecular dynamics simulations reported in this repository were performed using Desmond v7.0 (Schrödinger Suite 2025-1).
+
+Simulation systems:
+
+* hERG–Moxifloxacin complex (PDB ID: 5VA1, Chain B)
+* hERG–FLQ_Mod_2 complex (PDB ID: 5VA1, Chain B)
+* DNA gyrase–FLQ_Mod_2 complex (PDB ID: 2XCT)
+
+Simulation parameters:
+
+* Force field: OPLS4
+* Water model: TIP4P-D
+* Ensemble: NPT
+* Temperature: 300 K
+* Pressure: 1 atm
+* Salt concentration: 0.15 M NaCl
+* Production simulation time: 200 ns
+* Replicates: 3 independent simulations
+
+Representative structural frames shown in this repository were extracted from equilibrated regions within the final 100 ns analysis window used for MM/PBSA free-energy calculations and interaction occupancy analysis.
+
+All representative structures correspond to the top-ranked Glide XP/GNINA docking pose used for molecular dynamics initialization.
+
+Additional replicate trajectories and raw simulation outputs are available from the corresponding author upon reasonable request.
