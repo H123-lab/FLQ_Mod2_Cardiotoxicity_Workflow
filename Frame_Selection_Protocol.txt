@@ -1,0 +1,28 @@
+# Representative Frame Selection Protocol
+
+Representative molecular dynamics frames were selected from the equilibrated segment of each 200 ns production trajectory.
+
+Selection criteria included:
+
+* stable backbone RMSD
+* preserved ligand orientation
+* conserved key interaction geometry
+* absence of transient unstable conformations
+* consistency with MM/PBSA energetic trends reported in the manuscript
+
+Frames were selected from the final 100 ns trajectory interval following equilibration.
+
+For hERG complexes, representative frames preserved:
+
+* Tyr545 aromatic interactions
+* Arg541 interaction geometry
+* Glu544 hydrogen bonding patterns
+* experimentally plausible pore orientation
+
+For DNA gyrase complexes, representative frames preserved:
+
+* Mg²⁺ chelation geometry
+* Ser84 and Asp87 interaction network
+* compact quinolone pharmacophore alignment
+
+All residue numbering, protonation states, ligand naming conventions, and chain identifiers correspond exactly to the systems described in the manuscript.
