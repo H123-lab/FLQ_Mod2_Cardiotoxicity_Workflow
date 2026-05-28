@@ -39,3 +39,15 @@ FLQ_Mod2_Cardiotoxicity_Workflow/
     ├── FLQ_Mod_2.sdf
     ├── docking_pose_herg.pdb
     ├── docking_pose_gyrase.pdb
+
+    MD_Trajectories/
+│   ├── hERG_FLQ_Mod2_200ns_rep1.xtc
+│   ├── hERG_Moxifloxacin_200ns_rep1.xtc
+│   ├── DNAgyrase_FLQ_Mod2_200ns_rep1.xtc
+│
+├── MD_Representative_Frames/
+│   ├── hERG_FLQ_Mod2_MD_RepresentativeFrame.png
+│   ├── hERG_Moxifloxacin_MD_RepresentativeFrame.png
+│   ├── DNAgyrase_FLQ_Mod2_MD_RepresentativeFrame.png
+│
+├── README.md
