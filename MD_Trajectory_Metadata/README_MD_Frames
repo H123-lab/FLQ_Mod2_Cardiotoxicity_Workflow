@@ -1,0 +1,17 @@
+# README — Representative MD Frames
+
+This directory contains representative equilibrated molecular dynamics snapshots corresponding to the systems analyzed in the manuscript:
+
+"AI-Guided Cardiotoxicity-Aware Fluoroquinolone Redesign via Integrated Docking, Molecular Dynamics, and MM/PBSA Analysis"
+
+The representative frames were selected from equilibrated production trajectories and visually summarize the interaction patterns discussed in the manuscript, including:
+
+* reduced hERG stabilization of FLQ_Mod_2
+* weakened Arg541 coupling
+* altered Tyr545 aromatic stacking
+* preserved Mg²⁺ coordination within DNA gyrase
+* retained antibacterial pharmacophore geometry
+
+Representative frames are intended for structural visualization and reproducibility support and do not replace the quantitative analyses reported in the manuscript.
+
+Additional simulation data and replicate trajectories are available from the corresponding author upon reasonable request.
