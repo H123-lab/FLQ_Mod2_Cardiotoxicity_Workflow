@@ -52,5 +52,5 @@ FLQ_Mod2_Cardiotoxicity_Workflow/
 │
 ├── README.md
 All supplementary computational reproducibility materials, representative structures, MM/PBSA datasets, and molecular dynamics representative snapshots are publicly available at Zenodo: DOI: 10.5281/zenodo.20434649 
-<img width="1652" height="55" alt="image" src="https://github.com/user-attachments/assets/d955e9a1-c5c8-4b6e-9fbb-cff927ac6799" />
+
 
